@@ -1,0 +1,10 @@
+footer{
+	background-color: #85929E;
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px
+}
+
+.active{
+
+	background-color: #CCD1D1;
+}

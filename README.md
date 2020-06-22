@@ -1,4 +1,4 @@
-# TechnicalKnockout_ASE
+# TechnicalKnockout
 
 This is our Final Project under Advanced Software Engineering Course
 
